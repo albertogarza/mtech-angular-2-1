@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 
 import { AppComponent } from './app.component';
+import { ExampleComponent } from './example.component';
 
 @NgModule({
   imports:      [ 
